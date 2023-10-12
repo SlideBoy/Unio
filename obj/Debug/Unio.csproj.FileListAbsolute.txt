@@ -1,0 +1,1534 @@
+C:\Users\aluno\Desktop\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Unio\bin\Unio.dll.config
+C:\Users\aluno\Desktop\Unio\bin\Unio.dll
+C:\Users\aluno\Desktop\Unio\bin\Unio.pdb
+C:\Users\aluno\Desktop\Unio\bin\roslyn\csc.exe
+C:\Users\aluno\Desktop\Unio\bin\roslyn\csc.exe.config
+C:\Users\aluno\Desktop\Unio\bin\roslyn\csc.rsp
+C:\Users\aluno\Desktop\Unio\bin\roslyn\csi.exe
+C:\Users\aluno\Desktop\Unio\bin\roslyn\csi.exe.config
+C:\Users\aluno\Desktop\Unio\bin\roslyn\csi.rsp
+C:\Users\aluno\Desktop\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Desktop\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aluno\Desktop\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Desktop\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Console.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aluno\Desktop\Unio\bin\roslyn\vbc.exe
+C:\Users\aluno\Desktop\Unio\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Desktop\Unio\bin\roslyn\vbc.rsp
+C:\Users\aluno\Desktop\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Desktop\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Desktop\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\aluno\Desktop\Unio\bin\Google.Protobuf.dll
+C:\Users\aluno\Desktop\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\aluno\Desktop\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Desktop\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\aluno\Desktop\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Desktop\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Desktop\Unio\bin\MySql.Data.dll
+C:\Users\aluno\Desktop\Unio\bin\System.Buffers.dll
+C:\Users\aluno\Desktop\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Desktop\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Desktop\Unio\bin\System.IO.Pipelines.dll
+C:\Users\aluno\Desktop\Unio\bin\System.Memory.dll
+C:\Users\aluno\Desktop\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\Unio\bin\ZstdSharp.dll
+C:\Users\aluno\Desktop\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\aluno\Desktop\Unio\bin\Google.Protobuf.pdb
+C:\Users\aluno\Desktop\Unio\bin\Google.Protobuf.xml
+C:\Users\aluno\Desktop\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\aluno\Desktop\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\aluno\Desktop\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\aluno\Desktop\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Desktop\Unio\bin\MySql.Data.xml
+C:\Users\aluno\Desktop\Unio\bin\System.Buffers.xml
+C:\Users\aluno\Desktop\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aluno\Desktop\Unio\bin\System.IO.Pipelines.xml
+C:\Users\aluno\Desktop\Unio\bin\System.Memory.xml
+C:\Users\aluno\Desktop\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Desktop\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Desktop\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\aluno\Desktop\Unio\obj\Debug\Unio.dll
+C:\Users\aluno\Desktop\Unio\obj\Debug\Unio.pdb
+C:\Users\Admin\Downloads\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Unio\obj\Debug\Unio.dll
+C:\Users\Admin\Downloads\Unio\obj\Debug\Unio.pdb
+C:\Users\Admin\Downloads\Unio\bin\Unio.dll.config
+C:\Users\Admin\Downloads\Unio\bin\Unio.dll
+C:\Users\Admin\Downloads\Unio\bin\Unio.pdb
+C:\Users\Admin\Downloads\Unio\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Unio\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Unio\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Unio\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Unio\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Unio\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Unio\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Unio\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Unio\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\Admin\Downloads\Unio\bin\Google.Protobuf.dll
+C:\Users\Admin\Downloads\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Unio\bin\MySql.Data.dll
+C:\Users\Admin\Downloads\Unio\bin\System.Buffers.dll
+C:\Users\Admin\Downloads\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Unio\bin\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\Unio\bin\System.Memory.dll
+C:\Users\Admin\Downloads\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Unio\bin\ZstdSharp.dll
+C:\Users\Admin\Downloads\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\Admin\Downloads\Unio\bin\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\Unio\bin\Google.Protobuf.xml
+C:\Users\Admin\Downloads\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\Admin\Downloads\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Downloads\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\Admin\Downloads\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\Unio\bin\MySql.Data.xml
+C:\Users\Admin\Downloads\Unio\bin\System.Buffers.xml
+C:\Users\Admin\Downloads\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\Unio\bin\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\Unio\bin\System.Memory.xml
+C:\Users\Admin\Downloads\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\Admin\Downloads\Unio\Unio\bin\Unio.dll.config
+C:\Users\Admin\Downloads\Unio\Unio\bin\Unio.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\Unio.pdb
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Unio\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Unio\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\Google.Protobuf.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\MySql.Data.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Buffers.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Memory.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\ZstdSharp.dll
+C:\Users\Admin\Downloads\Unio\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\Unio\Unio\bin\Google.Protobuf.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\MySql.Data.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Buffers.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Memory.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Unio\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Unio\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Unio\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Unio\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\Admin\Downloads\Unio\Unio\obj\Debug\Unio.dll
+C:\Users\Admin\Downloads\Unio\Unio\obj\Debug\Unio.pdb
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\Unio.dll.config
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\Unio.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\Unio.pdb
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\csc.exe
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\csi.exe
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\Google.Protobuf.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\MySql.Data.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Buffers.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.IO.Pipelines.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Memory.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\ZstdSharp.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\Google.Protobuf.pdb
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\Google.Protobuf.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\MySql.Data.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Buffers.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.IO.Pipelines.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Memory.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\TCC be like\24.08\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TCC be like\24.08\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TCC be like\24.08\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\user\Desktop\TCC be like\24.08\Unio\obj\Debug\Unio.dll
+C:\Users\user\Desktop\TCC be like\24.08\Unio\obj\Debug\Unio.pdb
+C:\Users\user\Desktop\TCC be like\25.08\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TCC be like\25.08\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TCC be like\25.08\Unio\obj\Debug\Unio.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\obj\Debug\Unio.pdb
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\Unio.dll.config
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\Unio.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\Unio.pdb
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\csc.exe
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\csi.exe
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\Google.Protobuf.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\MySql.Data.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Buffers.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.IO.Pipelines.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Memory.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\ZstdSharp.dll
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\Google.Protobuf.pdb
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\Google.Protobuf.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\MySql.Data.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Buffers.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.IO.Pipelines.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Memory.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\TCC be like\25.08\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\Unio.dll.config
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\Unio.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\Unio.pdb
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\Google.Protobuf.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\MySql.Data.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Buffers.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Memory.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\ZstdSharp.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\Google.Protobuf.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\MySql.Data.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Buffers.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Memory.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Unio\Unio\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Unio\Unio\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Unio\Unio\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\Admin\Downloads\Unio\Unio\Unio\obj\Debug\Unio.dll
+C:\Users\Admin\Downloads\Unio\Unio\Unio\obj\Debug\Unio.pdb
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\obj\Debug\Unio.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\obj\Debug\Unio.pdb
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\Unio.dll.config
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\Unio.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\Unio.pdb
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\csc.exe
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\csi.exe
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\Google.Protobuf.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\MySql.Data.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Buffers.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.IO.Pipelines.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Memory.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\ZstdSharp.dll
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\Google.Protobuf.pdb
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\Google.Protobuf.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\MySql.Data.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Buffers.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.IO.Pipelines.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Memory.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\TCC be like\02.09\Unio\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\aluno\Downloads\Unio\Unio\bin\Unio.dll.config
+C:\Users\aluno\Downloads\Unio\Unio\bin\Unio.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\Unio.pdb
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\csc.exe
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\csc.exe.config
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\csc.rsp
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\csi.exe
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\csi.exe.config
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\csi.rsp
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Console.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\vbc.exe
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\vbc.rsp
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Downloads\Unio\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Downloads\Unio\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\Google.Protobuf.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\MySql.Data.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Buffers.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.IO.Pipelines.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Memory.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\ZstdSharp.dll
+C:\Users\aluno\Downloads\Unio\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\Google.Protobuf.pdb
+C:\Users\aluno\Downloads\Unio\Unio\bin\Google.Protobuf.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\MySql.Data.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Buffers.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.IO.Pipelines.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Memory.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Downloads\Unio\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Downloads\Unio\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Unio\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Unio\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\aluno\Downloads\Unio\Unio\obj\Debug\Unio.dll
+C:\Users\aluno\Downloads\Unio\Unio\obj\Debug\Unio.pdb
+C:\Users\aluno\Downloads\Unio\bin\Unio.dll.config
+C:\Users\aluno\Downloads\Unio\bin\Unio.dll
+C:\Users\aluno\Downloads\Unio\bin\Unio.pdb
+C:\Users\aluno\Downloads\Unio\bin\roslyn\csc.exe
+C:\Users\aluno\Downloads\Unio\bin\roslyn\csc.exe.config
+C:\Users\aluno\Downloads\Unio\bin\roslyn\csc.rsp
+C:\Users\aluno\Downloads\Unio\bin\roslyn\csi.exe
+C:\Users\aluno\Downloads\Unio\bin\roslyn\csi.exe.config
+C:\Users\aluno\Downloads\Unio\bin\roslyn\csi.rsp
+C:\Users\aluno\Downloads\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Downloads\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aluno\Downloads\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Downloads\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Console.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aluno\Downloads\Unio\bin\roslyn\vbc.exe
+C:\Users\aluno\Downloads\Unio\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Downloads\Unio\bin\roslyn\vbc.rsp
+C:\Users\aluno\Downloads\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Downloads\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Downloads\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\aluno\Downloads\Unio\bin\Google.Protobuf.dll
+C:\Users\aluno\Downloads\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\aluno\Downloads\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Downloads\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\aluno\Downloads\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Downloads\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Downloads\Unio\bin\MySql.Data.dll
+C:\Users\aluno\Downloads\Unio\bin\System.Buffers.dll
+C:\Users\aluno\Downloads\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Downloads\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Downloads\Unio\bin\System.IO.Pipelines.dll
+C:\Users\aluno\Downloads\Unio\bin\System.Memory.dll
+C:\Users\aluno\Downloads\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\aluno\Downloads\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Downloads\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Downloads\Unio\bin\ZstdSharp.dll
+C:\Users\aluno\Downloads\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\aluno\Downloads\Unio\bin\Google.Protobuf.pdb
+C:\Users\aluno\Downloads\Unio\bin\Google.Protobuf.xml
+C:\Users\aluno\Downloads\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\aluno\Downloads\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\aluno\Downloads\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\aluno\Downloads\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Downloads\Unio\bin\MySql.Data.xml
+C:\Users\aluno\Downloads\Unio\bin\System.Buffers.xml
+C:\Users\aluno\Downloads\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aluno\Downloads\Unio\bin\System.IO.Pipelines.xml
+C:\Users\aluno\Downloads\Unio\bin\System.Memory.xml
+C:\Users\aluno\Downloads\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\aluno\Downloads\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Downloads\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Downloads\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Downloads\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\aluno\Downloads\Unio\obj\Debug\Unio.dll
+C:\Users\aluno\Downloads\Unio\obj\Debug\Unio.pdb
+C:\Users\Mathe\Downloads\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\Mathe\Downloads\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\Mathe\Downloads\Unio\obj\Debug\Unio.dll
+C:\Users\Mathe\Downloads\Unio\obj\Debug\Unio.pdb
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\Unio.dll.config
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\Unio.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\Unio.pdb
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\csc.exe
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\csi.exe
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\Google.Protobuf.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\MySql.Data.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Buffers.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.IO.Pipelines.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Memory.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\ZstdSharp.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\Google.Protobuf.pdb
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\Google.Protobuf.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\MySql.Data.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Buffers.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.IO.Pipelines.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Memory.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\TCC be like\12.09\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TCC be like\12.09\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TCC be like\12.09\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\user\Desktop\TCC be like\12.09\Unio\obj\Debug\Unio.dll
+C:\Users\user\Desktop\TCC be like\12.09\Unio\obj\Debug\Unio.pdb
+C:\Users\Admin\Desktop\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Unio\obj\Debug\Unio.dll
+C:\Users\Admin\Desktop\Unio\obj\Debug\Unio.pdb
+C:\Users\Admin\Desktop\Unio\bin\Unio.dll.config
+C:\Users\Admin\Desktop\Unio\bin\Unio.dll
+C:\Users\Admin\Desktop\Unio\bin\Unio.pdb
+C:\Users\Admin\Desktop\Unio\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\Unio\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\Unio\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\Unio\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\Unio\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\Unio\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\Unio\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\Unio\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\Unio\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\Admin\Desktop\Unio\bin\Google.Protobuf.dll
+C:\Users\Admin\Desktop\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Unio\bin\MySql.Data.dll
+C:\Users\Admin\Desktop\Unio\bin\System.Buffers.dll
+C:\Users\Admin\Desktop\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\Unio\bin\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\Unio\bin\System.Memory.dll
+C:\Users\Admin\Desktop\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\Unio\bin\ZstdSharp.dll
+C:\Users\Admin\Desktop\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\Admin\Desktop\Unio\bin\Google.Protobuf.pdb
+C:\Users\Admin\Desktop\Unio\bin\Google.Protobuf.xml
+C:\Users\Admin\Desktop\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\Admin\Desktop\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Desktop\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\Admin\Desktop\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\Unio\bin\MySql.Data.xml
+C:\Users\Admin\Desktop\Unio\bin\System.Buffers.xml
+C:\Users\Admin\Desktop\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\Unio\bin\System.IO.Pipelines.xml
+C:\Users\Admin\Desktop\Unio\bin\System.Memory.xml
+C:\Users\Admin\Desktop\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\user\Desktop\TCC be like\Unio\bin\Unio.dll.config
+C:\Users\user\Desktop\TCC be like\Unio\bin\Unio.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\Unio.pdb
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\csc.exe
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\csi.exe
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\TCC be like\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\TCC be like\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\Google.Protobuf.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\MySql.Data.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Buffers.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.IO.Pipelines.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Memory.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\ZstdSharp.dll
+C:\Users\user\Desktop\TCC be like\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\Google.Protobuf.pdb
+C:\Users\user\Desktop\TCC be like\Unio\bin\Google.Protobuf.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\MySql.Data.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Buffers.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.IO.Pipelines.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Memory.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\TCC be like\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\TCC be like\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TCC be like\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TCC be like\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\user\Desktop\TCC be like\Unio\obj\Debug\Unio.dll
+C:\Users\user\Desktop\TCC be like\Unio\obj\Debug\Unio.pdb
+C:\Users\User\Downloads\Unio\bin\Unio.dll.config
+C:\Users\User\Downloads\Unio\bin\Unio.dll
+C:\Users\User\Downloads\Unio\bin\Unio.pdb
+C:\Users\User\Downloads\Unio\bin\roslyn\csc.exe
+C:\Users\User\Downloads\Unio\bin\roslyn\csc.exe.config
+C:\Users\User\Downloads\Unio\bin\roslyn\csc.rsp
+C:\Users\User\Downloads\Unio\bin\roslyn\csi.exe
+C:\Users\User\Downloads\Unio\bin\roslyn\csi.exe.config
+C:\Users\User\Downloads\Unio\bin\roslyn\csi.rsp
+C:\Users\User\Downloads\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\Downloads\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\User\Downloads\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\Downloads\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Console.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\User\Downloads\Unio\bin\roslyn\vbc.exe
+C:\Users\User\Downloads\Unio\bin\roslyn\vbc.exe.config
+C:\Users\User\Downloads\Unio\bin\roslyn\vbc.rsp
+C:\Users\User\Downloads\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\Downloads\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\Downloads\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\User\Downloads\Unio\bin\Google.Protobuf.dll
+C:\Users\User\Downloads\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\Downloads\Unio\bin\MySql.Data.dll
+C:\Users\User\Downloads\Unio\bin\System.Buffers.dll
+C:\Users\User\Downloads\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\Unio\bin\System.IO.Pipelines.dll
+C:\Users\User\Downloads\Unio\bin\System.Memory.dll
+C:\Users\User\Downloads\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\Unio\bin\ZstdSharp.dll
+C:\Users\User\Downloads\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\User\Downloads\Unio\bin\Google.Protobuf.pdb
+C:\Users\User\Downloads\Unio\bin\Google.Protobuf.xml
+C:\Users\User\Downloads\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Downloads\Unio\bin\MySql.Data.xml
+C:\Users\User\Downloads\Unio\bin\System.Buffers.xml
+C:\Users\User\Downloads\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Downloads\Unio\bin\System.IO.Pipelines.xml
+C:\Users\User\Downloads\Unio\bin\System.Memory.xml
+C:\Users\User\Downloads\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Downloads\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\Downloads\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\User\Downloads\Unio\obj\Debug\Unio.dll
+C:\Users\User\Downloads\Unio\obj\Debug\Unio.pdb
+C:\Users\Mathe\Downloads\TCC\Unio\bin\Unio.dll.config
+C:\Users\Mathe\Downloads\TCC\Unio\bin\Unio.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\Unio.pdb
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\csc.exe
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\csc.exe.config
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\csc.rsp
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\csi.exe
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\csi.exe.config
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\csi.rsp
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Console.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\vbc.exe
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\vbc.exe.config
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\vbc.rsp
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mathe\Downloads\TCC\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mathe\Downloads\TCC\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\Google.Protobuf.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\MySql.Data.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Buffers.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.IO.Pipelines.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Memory.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\ZstdSharp.dll
+C:\Users\Mathe\Downloads\TCC\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\Google.Protobuf.pdb
+C:\Users\Mathe\Downloads\TCC\Unio\bin\Google.Protobuf.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\MySql.Data.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Buffers.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.IO.Pipelines.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Memory.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Mathe\Downloads\TCC\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mathe\Downloads\TCC\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\Mathe\Downloads\TCC\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\Mathe\Downloads\TCC\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\Mathe\Downloads\TCC\Unio\obj\Debug\Unio.dll
+C:\Users\Mathe\Downloads\TCC\Unio\obj\Debug\Unio.pdb
+C:\Users\user\Desktop\TCC be like\atual\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TCC be like\atual\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TCC be like\atual\Unio\obj\Debug\Unio.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\obj\Debug\Unio.pdb
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\Unio.dll.config
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\Unio.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\Unio.pdb
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\csc.exe
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\csc.exe.config
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\csc.rsp
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\csi.exe
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\csi.exe.config
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\csi.rsp
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Console.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\vbc.exe.config
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\vbc.rsp
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\Google.Protobuf.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\MySql.Data.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Buffers.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.IO.Pipelines.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Memory.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\ZstdSharp.dll
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\Google.Protobuf.pdb
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\Google.Protobuf.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\MySql.Data.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Buffers.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.IO.Pipelines.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Memory.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\TCC be like\atual\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\Unio.dll.config
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\Unio.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\Unio.pdb
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\Google.Protobuf.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\MySql.Data.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Buffers.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.IO.Pipelines.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Memory.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\ZstdSharp.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\Google.Protobuf.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\MySql.Data.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Buffers.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.IO.Pipelines.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Memory.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\obj\Debug\Unio.dll
+C:\Users\Admin\Downloads\Unio (2)\Unio\Unio\obj\Debug\Unio.pdb
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\Unio.dll.config
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\Unio.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\Unio.pdb
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\csc.exe
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\csc.exe.config
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\csc.rsp
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\csi.exe
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\csi.exe.config
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\csi.rsp
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Console.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.IO.Compression.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Net.Http.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Net.Sockets.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.ValueTuple.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\vbc.exe
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\vbc.rsp
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\BouncyCastle.Crypto.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\Google.Protobuf.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\K4os.Compression.LZ4.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\K4os.Hash.xxHash.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\MySql.Data.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Buffers.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.IO.Pipelines.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Memory.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Numerics.Vectors.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\ZstdSharp.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\BouncyCastle.Crypto.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\Google.Protobuf.pdb
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\Google.Protobuf.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\K4os.Compression.LZ4.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\K4os.Hash.xxHash.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\MySql.Data.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Buffers.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.IO.Pipelines.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Memory.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Numerics.Vectors.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\obj\Debug\Unio.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\obj\Debug\Unio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\obj\Debug\Unio.csproj.CopyComplete
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\obj\Debug\Unio.dll
+C:\Users\aluno\Downloads\05.10.2023 - Gabriel (PerfilAutonomo)\Unio\obj\Debug\Unio.pdb

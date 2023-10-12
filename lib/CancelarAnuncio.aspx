@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CancelarAnuncio.aspx.cs" Inherits="Unio.lib.CancelarAnuncio" %>

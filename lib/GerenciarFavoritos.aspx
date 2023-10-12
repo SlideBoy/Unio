@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="GerenciarFavoritos.aspx.cs" Inherits="Unio.lib.GerenciarFavoritos" %>
