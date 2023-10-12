@@ -402,4 +402,5 @@ function CancelarAnuncio(e) {
 
 function Denunciar(e) {
     e.preventDefault();
+    console.log('Denunciado');
 }
